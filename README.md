@@ -15,7 +15,7 @@ Proyek ini dibuat untuk memenuhi pembelajaran struktur data array.
 
 1. Clone repository:
 ```bash
-https://github.com/11Boy-ops/Tugas-Struktur-Data-Game-Of-Life
+git clone https://github.com/11Boy-ops/Tugas-Struktur-Data-Game-Of-Life.git cd Tugas-Struktur-Data-Game-Of-Life
 ```
 2. Jalankan Program:
 ```bash
