@@ -15,7 +15,7 @@ Proyek ini dibuat untuk memenuhi pembelajaran struktur data array.
 
 1. Clone repository:
 ```bash
-git clone https://github.com/username/game-of-life-array.git
+git clone https://github.com/Wahyu Adi Pratama/game-of-life-array.git
 cd game-of-life-array
 ```
 2. Jalankan Program:
