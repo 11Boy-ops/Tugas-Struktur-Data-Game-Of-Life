@@ -17,7 +17,7 @@ Proyek ini dibuat untuk memenuhi pembelajaran struktur data array.
 ```bash
 git clone https://github.com/username/game-of-life-array.git
 cd game-of-life-array
-
+```
 2. Jalankan Program:
 ```bash
 python main.py
